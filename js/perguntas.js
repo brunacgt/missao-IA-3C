@@ -1,12 +1,12 @@
 export const perguntas = [
     {
-        enunciado: "Pergunta 1",
+        enunciado: "Você gosta de verão",
         alternativas: [
             {
                 texto: "Alternativa 1 da pergunta 1",
                 afirmacao: [
-                    "afirmacao 1",
-                    "afirmacao 2"
+                    "Sim",
+                    "Não"
                     ]
             },
             {
