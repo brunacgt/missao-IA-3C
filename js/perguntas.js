@@ -1,45 +1,45 @@
 export const perguntas = [
     {
-        enunciado: "Você gosta de verão",
+        enunciado: "Qual estação do ano vc prefere?",
         alternativas: [
             {
-                texto: "Alternativa 1 da pergunta 1",
+                texto: "Verão",
                 afirmacao: [
-                    "Sim",
-                    "Não"
+                    "Está certo isso aí",
+                    "Verão é sempre bom!"
                     ]
             },
             {
-                texto: "Alternativa 2 da pergunta 1",
+                texto: "Inverno",
                 afirmacao: [
-                    "afirmacao 1",
-                    "afirmacao 2"
+                    "Que pena, inverno não é bom",
+                    "Frio nos deixa com indisposição."
                     ]
             }           
             
         ]
     },
     {
-        enunciado: "Pergunta 2",
+        enunciado: "Você moraria no alaska?",
         alternativas: [
             {
-                texto:"Alternativa 1 da pergunta 2",
+                texto:"Sim",
                 afirmacao: [
-                    "afirmacao 1",
-                    "afirmacao 2"
+                    "Você tem razão",
+                    ""
                     ]
             },
             {
-                texto: "Alternativa 2 da pergunta 2",
+                texto: "Não",
                 afirmacao: [
-                    "afirmacao 1",
-                    "afirmacao 2"
+                    "Você tem razão",
+                    "Otima escolha"
                     ]
             }
         ]
     },
     {
-        enunciado: "Pergunta 3",
+        enunciado: "Você moraria no deserto?",
         alternativas: [
             {
                 texto:"Alternativa 1 da pergunta 3",
