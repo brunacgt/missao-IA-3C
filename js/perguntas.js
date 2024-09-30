@@ -25,8 +25,8 @@ export const perguntas = [
             {
                 texto:"Sim",
                 afirmacao: [
-                    "Você tem razão",
-                    ""
+                    "Cuidado isso pode fazer mal a sua saúde",
+                    "Se proteja pois lá é um frio extremo"
                     ]
             },
             {
@@ -42,17 +42,17 @@ export const perguntas = [
         enunciado: "Você moraria no deserto?",
         alternativas: [
             {
-                texto:"Alternativa 1 da pergunta 3",
+                texto:"Sim",
                 afirmacao: [
-                    "afirmacao 1",
-                    "afirmacao 2"
+                    "Tome cuidado,muito calor faz mal",
+                    "Pessima escolha"
                     ]
             },
             {
-                texto:"Alternativa 2 da pergunta 3",
+                texto:"Não",
                 afirmacao: [
-                    "afirmacao 1",
-                    "afirmacao 2"
+                    "Boa escolha",
+                    "Está certo isso pode ser prejudicial a sua saúde"
                     ]
             }
             
